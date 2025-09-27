@@ -1,73 +1,72 @@
-# Welcome to your Lovable project
+# Zayan Mustafa - Personal Portfolio
 
-## Project info
+Welcome to my personal portfolio website, built to showcase my skills, projects, and experience as a full-stack developer and creative designer. This project demonstrates modern web development practices using **React**, **Tailwind CSS**, and interactive UI components.
 
-**URL**: https://lovable.dev/projects/9c49b4ea-97f3-4f76-b2b6-b22891e142a8
+## Table of Contents
 
-## How can I edit this code?
+- [About](#about)
+- [Features](#features)
+- [Technologies Used](#technologies-used)
+- [Projects](#projects)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Contact](#contact)
+- [License](#license)
 
-There are several ways of editing your application.
+## About
 
-**Use Lovable**
+This portfolio website highlights my:
 
-Simply visit the [Lovable Project](https://lovable.dev/projects/9c49b4ea-97f3-4f76-b2b6-b22891e142a8) and start prompting.
+- Professional journey and experience
+- Key projects and contributions
+- Skills in web development, UI/UX design, and interactive dashboards
+- Contact information for collaboration or freelance work
 
-Changes made via Lovable will be committed automatically to this repo.
+## Features
 
-**Use your preferred IDE**
+- **Interactive Portfolio Section:** Filter projects by category and view project details in a modal.  
+- **Timeline of Experience:** Showcases education and work experience with key achievements.  
+- **Responsive Design:** Fully responsive layout for desktop, tablet, and mobile.  
+- **Smooth Animations:** Powered by Framer Motion for smooth transitions and hover effects.  
+- **Contact & Social Links:** Connect via email or social media links.  
 
-If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
+## Technologies Used
 
-The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
+- **Frontend:** React, Tailwind CSS, Framer Motion, Lucide Icons  
+- **Version Control:** Git & GitHub  
+- **Deployment:** Vercel (or your chosen hosting platform)
 
-Follow these steps:
+## Projects
 
-```sh
-# Step 1: Clone the repository using the project's Git URL.
-git clone <YOUR_GIT_URL>
+Some highlighted projects:
 
-# Step 2: Navigate to the project directory.
-cd <YOUR_PROJECT_NAME>
+1. **Movie App**  
+   - React & Node.js application for movie exploration  
+   - Features real-time data and dynamic UI  
 
-# Step 3: Install the necessary dependencies.
-npm i
+2. **FinTech Dashboard**  
+   - React-based financial analytics dashboard  
+   - Real-time market data and charting  
 
-# Step 4: Start the development server with auto-reloading and an instant preview.
-npm run dev
-```
+3. **MindfulMoments App**  
+   - React Native mobile app for meditation and mindfulness  
+   - Guided sessions, progress tracking  
 
-**Edit a file directly in GitHub**
+4. **Luxury Hotel Brand**  
+   - Complete brand identity and UI/UX redesign  
+   - Responsive website and design system  
 
-- Navigate to the desired file(s).
-- Click the "Edit" button (pencil icon) at the top right of the file view.
-- Make your changes and commit the changes.
+5. **Artisan Marketplace**  
+   - E-commerce platform connecting artisans and buyers  
+   - Next.js, Stripe integration, seller dashboards  
 
-**Use GitHub Codespaces**
+6. **Fitness Tracker App**  
+   - React Native app for tracking workouts and nutrition  
+   - Health monitoring features and recommendations  
 
-- Navigate to the main page of your repository.
-- Click on the "Code" button (green button) near the top right.
-- Select the "Codespaces" tab.
-- Click on "New codespace" to launch a new Codespace environment.
-- Edit files directly within the Codespace and commit and push your changes once you're done.
+## Installation
 
-## What technologies are used for this project?
+1. Clone the repository:
 
-This project is built with:
-
-- Vite
-- TypeScript
-- React
-- shadcn-ui
-- Tailwind CSS
-
-## How can I deploy this project?
-
-Simply open [Lovable](https://lovable.dev/projects/9c49b4ea-97f3-4f76-b2b6-b22891e142a8) and click on Share -> Publish.
-
-## Can I connect a custom domain to my Lovable project?
-
-Yes, you can!
-
-To connect a domain, navigate to Project > Settings > Domains and click Connect Domain.
-
-Read more here: [Setting up a custom domain](https://docs.lovable.dev/features/custom-domain#custom-domain)
+```bash
+git clone https://github.com/ZayanMustafa95/Zayan-Mustafa-Web.git
